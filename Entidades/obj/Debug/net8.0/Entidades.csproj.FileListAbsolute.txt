@@ -1,0 +1,11 @@
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\bin\Debug\net8.0\Entidades.deps.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\bin\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\bin\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\ref\Entidades.dll

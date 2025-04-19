@@ -1,0 +1,17 @@
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
