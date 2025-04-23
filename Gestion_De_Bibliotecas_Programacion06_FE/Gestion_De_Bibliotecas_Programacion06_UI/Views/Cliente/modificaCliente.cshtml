@@ -1,0 +1,58 @@
+﻿@model Gestion_De_Bibliotecas_Programacion06_UI.Models.mCliente
+
+@{
+    ViewData["Title"] = "modificaCliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Modificar cliente</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="modCliente">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TnIdCliente" class="control-label"></label>
+                <input asp-for="TnIdCliente" class="form-control" />
+                <span asp-validation-for="TnIdCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcNombre" class="control-label"></label>
+                <input asp-for="TcNombre" class="form-control" />
+                <span asp-validation-for="TcNombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcAp1" class="control-label"></label>
+                <input asp-for="TcAp1" class="form-control" />
+                <span asp-validation-for="TcAp1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcAp2" class="control-label"></label>
+                <input asp-for="TcAp2" class="form-control" />
+                <span asp-validation-for="TcAp2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcNumTelefono" class="control-label"></label>
+                <input asp-for="TcNumTelefono" class="form-control" />
+                <span asp-validation-for="TcNumTelefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcCorreoElectronico" class="control-label"></label>
+                <input asp-for="TcCorreoElectronico" class="form-control" />
+                <span asp-validation-for="TcCorreoElectronico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-warning" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="obtenerCliente">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Gestion_De_Bibliotecas_Programacion06_UI.Models.mPrestamo>
+
+@{
+    ViewData["Title"] = "obtenerPrestamo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Obtener Prestamo</h1>
+
+<p>
+    <a asp-action="agregaPrestamo">Nueva</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TnIdPrestamo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TnIdLibro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TnIdCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TfFecPrestamo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TfFecDevolucion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TnIdPrestamo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TnIdLibro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TnIdCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TfFecPrestamo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TfFecDevolucion)
+            </td>
+            <td>
+                    @Html.ActionLink("Actualizar", "modificaPrestamo", new { pIdPrestamo = item.TnIdPrestamo }) |
+                    @Html.ActionLink("Detalle", "detallePrestamo", new { pIdPrestamo = item.TnIdPrestamo }) |
+                    @Html.ActionLink("Eliminar", "eliminaPrestamo", new { pIdPrestamo = item.TnIdPrestamo })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

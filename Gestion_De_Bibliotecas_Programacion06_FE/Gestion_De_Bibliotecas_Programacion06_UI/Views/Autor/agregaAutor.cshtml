@@ -1,0 +1,38 @@
+﻿@model Gestion_De_Bibliotecas_Programacion06_UI.Models.mAutor
+
+@{
+    ViewData["Title"] = "agregaAutor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Agrega autor</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="insAutor">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TcNombre" class="control-label"></label>
+                <input asp-for="TcNombre" class="form-control" />
+                <span asp-validation-for="TcNombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcNacionalidad" class="control-label"></label>
+                <input asp-for="TcNacionalidad" class="form-control" />
+                <span asp-validation-for="TcNacionalidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="obtenerAutor">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

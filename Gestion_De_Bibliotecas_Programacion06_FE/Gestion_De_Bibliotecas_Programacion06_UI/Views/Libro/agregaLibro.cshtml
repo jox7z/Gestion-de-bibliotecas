@@ -1,0 +1,48 @@
+﻿@model Gestion_De_Bibliotecas_Programacion06_UI.Models.mLibro
+
+@{
+    ViewData["Title"] = "agregaLibro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Agregar libro</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="insLibro">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TnIdAutor" class="control-label"></label>
+                <input asp-for="TnIdAutor" class="form-control" />
+                <span asp-validation-for="TnIdAutor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcTitulo" class="control-label"></label>
+                <input asp-for="TcTitulo" class="form-control" />
+                <span asp-validation-for="TcTitulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcEditorial" class="control-label"></label>
+                <input asp-for="TcEditorial" class="form-control" />
+                <span asp-validation-for="TcEditorial" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcCategoria" class="control-label"></label>
+                <input asp-for="TcCategoria" class="form-control" />
+                <span asp-validation-for="TcCategoria" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="obtenerLibro">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

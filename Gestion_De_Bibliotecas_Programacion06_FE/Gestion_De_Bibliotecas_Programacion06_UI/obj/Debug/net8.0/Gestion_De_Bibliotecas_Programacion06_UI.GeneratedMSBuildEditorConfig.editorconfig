@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gestion_De_Bibliotecas_Programacion06_UI
+build_property.RootNamespace = Gestion_De_Bibliotecas_Programacion06_UI
+build_property.ProjectDir = Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06_UI\Gestion_De_Bibliotecas_Programacion06_UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06_UI\Gestion_De_Bibliotecas_Programacion06_UI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Autor/agregaAutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JcYWdyZWdhQXV0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Autor/detalleAutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JcZGV0YWxsZUF1dG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Autor/eliminaAutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JcZWxpbWluYUF1dG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Autor/modificaAutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JcbW9kaWZpY2FBdXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Autor/obtenerAutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jcb2J0ZW5lckF1dG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Cliente/agregaCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxhZ3JlZ2FDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Cliente/detalleCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxkZXRhbGxlQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Cliente/eliminaCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxlbGltaW5hQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Cliente/modificaCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxtb2RpZmljYUNsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Cliente/obtenerCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxvYnRlbmVyQ2xpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Libro/agregaLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cYWdyZWdhTGlicm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Libro/detalleLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cZGV0YWxsZUxpYnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Libro/eliminaLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cZWxpbWluYUxpYnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Libro/modificaLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cbW9kaWZpY2FMaWJyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Libro/obtenerLibro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cb2J0ZW5lckxpYnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Login/errorGeneral.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cZXJyb3JHZW5lcmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Prestamo/agregaPrestamo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cYWdyZWdhUHJlc3RhbW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Prestamo/detallePrestamo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cZGV0YWxsZVByZXN0YW1vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Prestamo/eliminaPrestamo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cZWxpbWluYVByZXN0YW1vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Prestamo/modificaPrestamo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cbW9kaWZpY2FQcmVzdGFtby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Prestamo/obtenerPrestamo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RhbW9cb2J0ZW5lclByZXN0YW1vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Repos Progra IV/Gestion_De_Bibliotecas_Programacion06_UI/Gestion_De_Bibliotecas_Programacion06_UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-loge90zdb6

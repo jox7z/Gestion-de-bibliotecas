@@ -1,0 +1,6 @@
+@ApiGestionBiblioteca_Progra06_HostAddress = http://localhost:5078
+
+GET {{ApiGestionBiblioteca_Progra06_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Gestion_De_Bibliotecas_Programacion06_UI.Models.mAutor>
+
+@{
+    ViewData["Title"] = "obtenerAutor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Obtener Autor</h1>
+
+<p>
+    <a asp-action="agregaAutor">Nueva</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TnIdAutor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TcNombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TcNacionalidad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TnIdAutor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TcNombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TcNacionalidad)
+            </td>
+            <td>
+                @Html.ActionLink("Actualizar", "modificaAutor", new { pIdAutor = item.TnIdAutor }) |
+                @Html.ActionLink("Detalle", "detalleAutor", new { pIdAutor = item.TnIdAutor }) |
+                @Html.ActionLink("Eliminar", "eliminaAutor", new { pIdAutor = item.TnIdAutor })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

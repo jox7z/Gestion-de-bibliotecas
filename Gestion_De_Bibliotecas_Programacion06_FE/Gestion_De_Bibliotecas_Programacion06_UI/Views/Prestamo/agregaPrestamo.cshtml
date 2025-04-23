@@ -1,0 +1,48 @@
+﻿@model Gestion_De_Bibliotecas_Programacion06_UI.Models.mPrestamo
+
+@{
+    ViewData["Title"] = "agregaPrestamo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Agregar prestamo</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="insPrestamo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TnIdLibro" class="control-label"></label>
+                <input asp-for="TnIdLibro" class="form-control" />
+                <span asp-validation-for="TnIdLibro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TnIdCliente" class="control-label"></label>
+                <input asp-for="TnIdCliente" class="form-control" />
+                <span asp-validation-for="TnIdCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TfFecPrestamo" class="control-label"></label>
+                <input asp-for="TfFecPrestamo" class="form-control" />
+                <span asp-validation-for="TfFecPrestamo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TfFecDevolucion" class="control-label"></label>
+                <input asp-for="TfFecDevolucion" class="form-control" />
+                <span asp-validation-for="TfFecDevolucion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Agregar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="obtenerPrestamo">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

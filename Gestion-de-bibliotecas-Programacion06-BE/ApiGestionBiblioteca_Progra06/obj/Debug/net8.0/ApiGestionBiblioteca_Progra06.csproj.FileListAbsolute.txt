@@ -1,0 +1,392 @@
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.Development.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.staticwebassets.endpoints.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.exe
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.deps.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.runtimeconfig.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Core.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Identity.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.ClientModel.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Drawing.Common.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Formats.Asn1.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IO.Pipelines.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Memory.Data.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Runtime.Caching.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Permissions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Json.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Windows.Extensions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.AssemblyReference.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfoInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.CoreCompileInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\scopedcss\bundle\ApiGestionBiblioteca_Progra06.styles.css
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGestionBiblioteca_Progra06.props
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGestionBiblioteca_Progra06.props
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGestionBiblioteca_Progra06.props
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGesti.4D233BC8.Up2Date
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\refint\ApiGestionBiblioteca_Progra06.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.genruntimeconfig.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ref\ApiGestionBiblioteca_Progra06.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.AssemblyReference.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfoInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfo.cs
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.staticwebassets.endpoints.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.exe
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.deps.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.runtimeconfig.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\scopedcss\bundle\ApiGestionBiblioteca_Progra06.styles.css
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGestionBiblioteca_Progra06.props
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGestionBiblioteca_Progra06.props
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGestionBiblioteca_Progra06.props
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGesti.4D233BC8.Up2Date
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\refint\ApiGestionBiblioteca_Progra06.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.genruntimeconfig.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ref\ApiGestionBiblioteca_Progra06.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.staticwebassets.endpoints.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.exe
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.deps.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.runtimeconfig.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfo.cs
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\scopedcss\bundle\ApiGestionBiblioteca_Progra06.styles.css
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGestionBiblioteca_Progra06.props
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGestionBiblioteca_Progra06.props
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGestionBiblioteca_Progra06.props
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGesti.4D233BC8.Up2Date
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\refint\ApiGestionBiblioteca_Progra06.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.genruntimeconfig.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ref\ApiGestionBiblioteca_Progra06.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\appsettings.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.staticwebassets.endpoints.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.exe
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.deps.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.runtimeconfig.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.AssemblyReference.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfoInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.AssemblyInfo.cs
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.csproj.CoreCompileInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\scopedcss\bundle\ApiGestionBiblioteca_Progra06.styles.css
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.ApiGestionBiblioteca_Progra06.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGestionBiblioteca_Progra06.props
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGestionBiblioteca_Progra06.props
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGestionBiblioteca_Progra06.props
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGesti.4D233BC8.Up2Date
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\refint\ApiGestionBiblioteca_Progra06.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ApiGestionBiblioteca_Progra06.genruntimeconfig.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\ApiGestionBiblioteca_Progra06\obj\Debug\net8.0\ref\ApiGestionBiblioteca_Progra06.dll

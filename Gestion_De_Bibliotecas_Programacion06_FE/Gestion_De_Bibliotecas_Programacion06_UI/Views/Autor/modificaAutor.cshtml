@@ -1,0 +1,43 @@
+﻿@model Gestion_De_Bibliotecas_Programacion06_UI.Models.mAutor
+
+@{
+    ViewData["Title"] = "modificaAutor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Modificar autor</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="modAutor">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TnIdAutor" class="control-label"></label>
+                <input asp-for="TnIdAutor" class="form-control" />
+                <span asp-validation-for="TnIdAutor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcNombre" class="control-label"></label>
+                <input asp-for="TcNombre" class="form-control" />
+                <span asp-validation-for="TcNombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcNacionalidad" class="control-label"></label>
+                <input asp-for="TcNacionalidad" class="form-control" />
+                <span asp-validation-for="TcNacionalidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-warning" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="obtenerAutor">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

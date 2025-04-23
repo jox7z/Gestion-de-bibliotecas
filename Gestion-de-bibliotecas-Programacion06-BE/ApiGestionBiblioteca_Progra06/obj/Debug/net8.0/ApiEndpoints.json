@@ -1,0 +1,479 @@
+[
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutenticacionController",
+    "Method": "validarUsuario",
+    "RelativePath": "api/Autenticacion/validarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pUsuario",
+        "Type": "ApiGestionBiblioteca_Progra06.Modelos.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutorController",
+    "Method": "delAutor",
+    "RelativePath": "Autor/delAutor/{pIdAutor}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdAutor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutorController",
+    "Method": "delAutor",
+    "RelativePath": "Autor/delAutor/{pIdAutor}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdAutor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutorController",
+    "Method": "insAutor",
+    "RelativePath": "Autor/insAutor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pAutor",
+        "Type": "AccesoDatos.Entidades.TbiblioAutor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutorController",
+    "Method": "modAutor",
+    "RelativePath": "Autor/modAutor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pAutor",
+        "Type": "AccesoDatos.Entidades.TbiblioAutor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutorController",
+    "Method": "obtenerAutores",
+    "RelativePath": "Autor/obtenerAutores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AccesoDatos.Entidades.TbiblioAutor, Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.AutorController",
+    "Method": "obtenerAutoresXID",
+    "RelativePath": "Autor/obtenerAutoresXID/{pIdAutor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdAutor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AccesoDatos.Entidades.TbiblioAutor",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.ClienteController",
+    "Method": "delCliente",
+    "RelativePath": "Cliente/delCliente/{pIdCliente}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.ClienteController",
+    "Method": "delCliente",
+    "RelativePath": "Cliente/delCliente/{pIdCliente}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.ClienteController",
+    "Method": "insCliente",
+    "RelativePath": "Cliente/insCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pCliente",
+        "Type": "AccesoDatos.Entidades.TbiblioCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.ClienteController",
+    "Method": "modCliente",
+    "RelativePath": "Cliente/modCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pCliente",
+        "Type": "AccesoDatos.Entidades.TbiblioCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.ClienteController",
+    "Method": "obtenerClientes",
+    "RelativePath": "Cliente/obtenerClientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AccesoDatos.Entidades.TbiblioCliente, Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.ClienteController",
+    "Method": "obtenerClienteXID",
+    "RelativePath": "Cliente/obtenerClienteXID/{pIdCliente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AccesoDatos.Entidades.TbiblioCliente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.LibroController",
+    "Method": "delLibro",
+    "RelativePath": "Libro/delLibro/{pIdLibro}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdLibro",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.LibroController",
+    "Method": "delLibro",
+    "RelativePath": "Libro/delLibro/{pIdLibro}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdLibro",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.LibroController",
+    "Method": "insLibro",
+    "RelativePath": "Libro/insLibro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pLibro",
+        "Type": "AccesoDatos.Entidades.TbiblioLibro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.LibroController",
+    "Method": "modLibro",
+    "RelativePath": "Libro/modLibro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pLibro",
+        "Type": "AccesoDatos.Entidades.TbiblioLibro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.LibroController",
+    "Method": "obtenerLibros",
+    "RelativePath": "Libro/obtenerLibros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AccesoDatos.Entidades.TbiblioLibro, Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.LibroController",
+    "Method": "obtenerLibroXID",
+    "RelativePath": "Libro/obtenerLibroXID/{pIdLibro}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdLibro",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AccesoDatos.Entidades.TbiblioLibro",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.PrestamoController",
+    "Method": "delPrestamo",
+    "RelativePath": "Prestamo/delPrestamo/{pIdPrestamo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.PrestamoController",
+    "Method": "delPrestamo",
+    "RelativePath": "Prestamo/delPrestamo/{pIdPrestamo}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.PrestamoController",
+    "Method": "insPrestamo",
+    "RelativePath": "Prestamo/insPrestamo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pPrestamo",
+        "Type": "AccesoDatos.Entidades.TbiblioPrestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.PrestamoController",
+    "Method": "modPrestamo",
+    "RelativePath": "Prestamo/modPrestamo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pPrestamo",
+        "Type": "AccesoDatos.Entidades.TbiblioPrestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.PrestamoController",
+    "Method": "obtenerPrestamos",
+    "RelativePath": "Prestamo/obtenerPrestamos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AccesoDatos.Entidades.TbiblioPrestamo, Entidades, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.PrestamoController",
+    "Method": "obtenerPrestamoXID",
+    "RelativePath": "Prestamo/obtenerPrestamoXID/{pIdPrestamo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pIdPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AccesoDatos.Entidades.TbiblioPrestamo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiGestionBiblioteca_Progra06.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApiGestionBiblioteca_Progra06.WeatherForecast, ApiGestionBiblioteca_Progra06, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

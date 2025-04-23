@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "errorGeneral";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Error de ingreso al sistema</h1>
+
+<hr />
+
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+    <div class="col-md-4">
+        <form asp-action="retornarLogin">
+            <div class="modal-dialog">
+                <div class="modal-content shadow-lg">
+                    <div class="modal-header bg-danger text-white">
+                        <h5 class="modal-title">TIPO DE ERROR: ENTRE LA SILLA Y EL MONITOR</h5>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="alert alert-danger mb-0 text-center" role="alert">
+                            <strong>Error:</strong> Usuario o contraseña incorrectos. Por favor, verifique.
+                        </div>
+                    </div>
+
+                    <div class="modal-footer justify-content-center">
+                        <input type="submit" value="Aceptar" class="btn btn-outline-danger" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

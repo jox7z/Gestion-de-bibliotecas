@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Inicio - Biblioteca";
+}
+
+<div class="d-flex justify-content-center align-items-center min-vh-100 bg-light">
+    <div class="text-center shadow-lg p-5 rounded bg-white" style="max-width: 600px;">
+        <h1 class="display-5 mb-4 text-success">Bienvenido al Sistema de Gestión de Biblioteca</h1>
+        <p class="lead mb-4">
+            Seleccione una opción para comenzar:
+        </p>
+        <div class="d-grid gap-3">
+            <a asp-controller="Autor" asp-action="obtenerAutor" class="btn btn-outline-success btn-lg shadow-sm">Autores</a>
+            <a asp-controller="Libro" asp-action="obtenerLibro" class="btn btn-outline-primary btn-lg shadow-sm">Libros</a>
+            <a asp-controller="Cliente" asp-action="obtenerCliente" class="btn btn-outline-warning btn-lg shadow-sm">Clientes</a>
+            <a asp-controller="Prestamo" asp-action="obtenerPrestamo" class="btn btn-outline-danger btn-lg shadow-sm">Préstamos</a>
+        </div>
+    </div>
+</div>
+
+
+

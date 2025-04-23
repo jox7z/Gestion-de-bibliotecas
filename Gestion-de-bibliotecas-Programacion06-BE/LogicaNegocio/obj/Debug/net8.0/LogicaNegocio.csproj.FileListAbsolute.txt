@@ -1,0 +1,68 @@
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\bin\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\Entidades.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll

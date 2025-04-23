@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gestion_De_Bibliotecas_Programacion06_UI.props" />
+</Project>

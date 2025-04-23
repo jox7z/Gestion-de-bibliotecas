@@ -1,0 +1,54 @@
+﻿@model Gestion_De_Bibliotecas_Programacion06_UI.Models.mCliente
+
+@{
+    ViewData["Title"] = "detalleCliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Detalle cliente</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TnIdCliente)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TnIdCliente)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TcNombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TcNombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TcAp1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TcAp1)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TcAp2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TcAp2)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TcNumTelefono)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TcNumTelefono)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TcCorreoElectronico)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TcCorreoElectronico)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Actualizar", "modificaCliente", new { pIdCliente = Model.TnIdCliente }) |
+    <a asp-action="obtenerCliente">Regresar</a>
+</div>

@@ -1,0 +1,989 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ApiGestionBiblioteca_Progra06",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Autenticacion/validarUsuario": {
+      "post": {
+        "tags": [
+          "Autenticacion"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Usuario"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Usuario"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Usuario"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Autor/obtenerAutores": {
+      "get": {
+        "tags": [
+          "Autor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioAutor"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioAutor"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioAutor"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Autor/obtenerAutoresXID/{pIdAutor}": {
+      "get": {
+        "tags": [
+          "Autor"
+        ],
+        "parameters": [
+          {
+            "name": "pIdAutor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioAutor"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioAutor"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioAutor"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Autor/insAutor": {
+      "post": {
+        "tags": [
+          "Autor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioAutor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioAutor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioAutor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Autor/modAutor": {
+      "post": {
+        "tags": [
+          "Autor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioAutor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioAutor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioAutor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Autor/delAutor/{pIdAutor}": {
+      "delete": {
+        "tags": [
+          "Autor"
+        ],
+        "parameters": [
+          {
+            "name": "pIdAutor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Autor"
+        ],
+        "parameters": [
+          {
+            "name": "pIdAutor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Cliente/obtenerClientes": {
+      "get": {
+        "tags": [
+          "Cliente"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioCliente"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioCliente"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioCliente"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Cliente/obtenerClienteXID/{pIdCliente}": {
+      "get": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "pIdCliente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioCliente"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioCliente"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioCliente"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Cliente/insCliente": {
+      "post": {
+        "tags": [
+          "Cliente"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioCliente"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioCliente"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioCliente"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Cliente/modCliente": {
+      "post": {
+        "tags": [
+          "Cliente"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioCliente"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioCliente"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioCliente"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Cliente/delCliente/{pIdCliente}": {
+      "delete": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "pIdCliente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "pIdCliente",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Libro/obtenerLibros": {
+      "get": {
+        "tags": [
+          "Libro"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioLibro"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioLibro"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioLibro"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Libro/obtenerLibroXID/{pIdLibro}": {
+      "get": {
+        "tags": [
+          "Libro"
+        ],
+        "parameters": [
+          {
+            "name": "pIdLibro",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioLibro"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioLibro"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioLibro"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Libro/insLibro": {
+      "post": {
+        "tags": [
+          "Libro"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioLibro"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioLibro"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioLibro"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Libro/modLibro": {
+      "post": {
+        "tags": [
+          "Libro"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioLibro"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioLibro"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioLibro"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Libro/delLibro/{pIdLibro}": {
+      "delete": {
+        "tags": [
+          "Libro"
+        ],
+        "parameters": [
+          {
+            "name": "pIdLibro",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Libro"
+        ],
+        "parameters": [
+          {
+            "name": "pIdLibro",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Prestamo/obtenerPrestamos": {
+      "get": {
+        "tags": [
+          "Prestamo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioPrestamo"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioPrestamo"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TbiblioPrestamo"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Prestamo/obtenerPrestamoXID/{pIdPrestamo}": {
+      "get": {
+        "tags": [
+          "Prestamo"
+        ],
+        "parameters": [
+          {
+            "name": "pIdPrestamo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioPrestamo"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioPrestamo"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TbiblioPrestamo"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Prestamo/insPrestamo": {
+      "post": {
+        "tags": [
+          "Prestamo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioPrestamo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioPrestamo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioPrestamo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Prestamo/modPrestamo": {
+      "post": {
+        "tags": [
+          "Prestamo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioPrestamo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioPrestamo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TbiblioPrestamo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Prestamo/delPrestamo/{pIdPrestamo}": {
+      "delete": {
+        "tags": [
+          "Prestamo"
+        ],
+        "parameters": [
+          {
+            "name": "pIdPrestamo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Prestamo"
+        ],
+        "parameters": [
+          {
+            "name": "pIdPrestamo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TbiblioAutor": {
+        "type": "object",
+        "properties": {
+          "tnIdAutor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tcNombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcNacionalidad": {
+            "type": "string",
+            "nullable": true
+          },
+          "tbiblioLibros": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbiblioLibro"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbiblioCliente": {
+        "type": "object",
+        "properties": {
+          "tnIdCliente": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tcNombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcAp1": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcAp2": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcNumTelefono": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcCorreoElectronico": {
+            "type": "string",
+            "nullable": true
+          },
+          "tbiblioPrestamos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbiblioPrestamo"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbiblioLibro": {
+        "type": "object",
+        "properties": {
+          "tnIdLibro": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tnIdAutor": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tcTitulo": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcEditorial": {
+            "type": "string",
+            "nullable": true
+          },
+          "tcCategoria": {
+            "type": "string",
+            "nullable": true
+          },
+          "tbiblioPrestamos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TbiblioPrestamo"
+            },
+            "nullable": true
+          },
+          "tnIdAutorNavigation": {
+            "$ref": "#/components/schemas/TbiblioAutor"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TbiblioPrestamo": {
+        "type": "object",
+        "properties": {
+          "tnIdPrestamo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tnIdLibro": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tnIdCliente": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tfFecPrestamo": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "tfFecDevolucion": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "tnIdClienteNavigation": {
+            "$ref": "#/components/schemas/TbiblioCliente"
+          },
+          "tnIdLibroNavigation": {
+            "$ref": "#/components/schemas/TbiblioLibro"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Usuario": {
+        "type": "object",
+        "properties": {
+          "usuario": {
+            "type": "string",
+            "nullable": true
+          },
+          "contrasena": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

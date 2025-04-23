@@ -1,0 +1,68 @@
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

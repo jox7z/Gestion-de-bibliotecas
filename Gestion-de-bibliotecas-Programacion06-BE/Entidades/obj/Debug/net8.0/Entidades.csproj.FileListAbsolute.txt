@@ -1,0 +1,44 @@
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\bin\Debug\net8.0\Entidades.deps.json
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\bin\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\bin\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\Entidades.pdb
+Z:\Repos Progra IV\Gestion_De_Bibliotecas_Programacion06\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\Derek\Downloads\Gestion-de-bibliotecas-master\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\leand\Documents\utc\utc7\progra\Proyecto\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\josea\Desktop\Gestion-de-bibliotecas\Gestion-de-bibliotecas\Gestion-de-bibliotecas-master\Entidades\obj\Debug\net8.0\ref\Entidades.dll

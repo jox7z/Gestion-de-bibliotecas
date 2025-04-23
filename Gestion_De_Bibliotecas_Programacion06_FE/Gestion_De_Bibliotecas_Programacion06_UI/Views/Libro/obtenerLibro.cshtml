@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Gestion_De_Bibliotecas_Programacion06_UI.Models.mLibro>
+
+@{
+    ViewData["Title"] = "obtenerLibro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Obtener libro</h1>
+
+<p>
+    <a asp-action="agregaLibro">Nueva</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TnIdLibro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TnIdAutor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TcTitulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TcEditorial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TcCategoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TnIdLibro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TnIdAutor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TcTitulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TcEditorial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TcCategoria)
+            </td>
+            <td>
+                    @Html.ActionLink("Actualizar", "modificaLibro", new { pIdLibro = item.TnIdLibro }) |
+                    @Html.ActionLink("Detalle", "detalleLibro", new { pIdLibro = item.TnIdLibro }) |
+                    @Html.ActionLink("Eliminar", "eliminaLibro", new { pIdLibro = item.TnIdLibro })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
